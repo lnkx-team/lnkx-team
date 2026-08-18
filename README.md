@@ -53,7 +53,7 @@ building the future of automation at dev.lnkx.space ...
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=lnkx-team&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=lnkx-team&theme=radical&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lnkx-team&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 <br>
